@@ -1,6 +1,7 @@
+My first ROS project:
 
-This is a package for the problem 1-5
+Using ROS Kinetic Kame, create a catkin package to build a differential drive robot
+
 To view the robot model in RViz, please
-
 roslaunch lasmile_description lasmile_rviz.launch
 
